@@ -1,0 +1,9 @@
+no-copyright-file
+non-standard-toplevel-dir
+file-in-unusual-dir
+unknown-section
+debian-changelog-file-missing
+embedded-javascript-library
+arch-independent-package-contains-binary-or-object
+unstripped-binary-or-object
+missing-dependency-on-libc

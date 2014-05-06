@@ -1,0 +1,4 @@
+/etc/nginx/sites-available/bautablink
+/etc/init.d/bautablink
+/etc/init.d/bautaconf
+/etc/avahi/services/hombit-http.service

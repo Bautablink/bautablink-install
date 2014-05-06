@@ -1,0 +1,8 @@
+server {
+       listen 8000;
+       include "/etc/nginx/mime.types";
+       root /bauta/web;
+       index index.html index.htm;
+       server_name localhost;
+       add_header Access-Control-Allow-Origin *;
+}

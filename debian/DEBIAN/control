@@ -1,0 +1,8 @@
+Package: bautablink
+Section: bauta
+Priority: optional
+Architecture: all
+Depends: dash, nginx, avahi-daemon, usbmount, python, python-flask, python-lockfile, python-daemon
+Maintainer: Bautablink <ops@bautablink.com>
+Description: Bauta blink
+ is blinky.
